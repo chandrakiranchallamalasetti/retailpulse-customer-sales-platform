@@ -1,0 +1,26 @@
+customer_id,customer_name,state,salesperson_id
+101,Acme Corporation,CA,1
+102,Globex Inc.,NY,2
+103,Soylent Corp,IL,3
+104,Initech,TX,4
+105,Umbrella Corp,WA,5
+106,Stark Industries,CA,6
+107,Wayne Enterprises,NJ,7
+108,Cyberdyne Systems,CA,8
+109,Massive Dynamic,NY,9
+110,LexCorp,DE,10
+111,Oscorp Industries,NY,11
+112,Tyrell Corporation,CA,12
+113,Weyland-Yutani,OR,13
+114,Dharma Initiative,FL,14
+115,Omni Consumer Products,MI,15
+116,Aperture Science,OH,16
+117,Black Mesa Research,NM,17
+118,Abstergo Industries,VA,18
+119,Rekall Inc.,CA,19
+120,Monsters Inc.,CA,20
+121,Dunder Mifflin,PA,21
+122,Wonka Industries,VT,22
+123,Gringotts,NY,23
+124,Los Pollos Hermanos,NM,24
+125,Sterling Cooper,NY,25

@@ -1,0 +1,51 @@
+product_id,product_name,category,list_price
+1001,Laptop,Computing,1200.0
+1002,Mouse,Accessories,25.5
+1003,Desktop Computer,Computing,1500.0
+1004,Keyboard,Accessories,45.75
+1005,Printer,Printing,350.0
+1006,Ink Cartridge,Printing,65.25
+1007,Monitor,Visual & Imaging,275.5
+1008,HDMI Cable,Connectivity & Power,15.99
+1009,Tablet,Computing,599.99
+1010,Tablet Case,Computing,49.99
+1011,Smartphone,Mobile & Wearables,899.99
+1012,Screen Protector,Visual & Imaging,12.5
+1013,External Hard Drive,Other,129.99
+1014,USB Drive,Connectivity & Power,19.99
+1015,Webcam,Audio & Collaboration,79.99
+1016,Microphone,Mobile & Wearables,149.99
+1017,Gaming Console,Other,499.99
+1018,Game Controller,Accessories,59.99
+1019,Router,Connectivity & Power,189.99
+1020,Network Cable,Connectivity & Power,9.99
+1021,Wireless Headphones,Mobile & Wearables,249.99
+1022,Charging Stand,Connectivity & Power,45.5
+1023,Smart Speaker,Audio & Collaboration,129.99
+1024,Smart Plug,Connectivity & Power,24.99
+1025,Fitness Tracker,Mobile & Wearables,149.99
+1026,Replacement Band,Accessories,19.99
+1027,Virtual Reality Headset,Visual & Imaging,399.99
+1028,VR Controller,Accessories,89.99
+1029,Drone,Visual & Imaging,799.99
+1030,Extra Battery,Connectivity & Power,79.99
+1031,Digital Camera,Visual & Imaging,599.99
+1032,Camera Lens,Visual & Imaging,349.99
+1033,Bluetooth Speaker,Audio & Collaboration,129.99
+1034,Portable Charger,Connectivity & Power,59.99
+1035,Smart Watch,Mobile & Wearables,299.99
+1036,Watch Band,Accessories,29.99
+1037,E-reader,Mobile & Wearables,149.99
+1038,E-reader Cover,Mobile & Wearables,39.99
+1039,Projector,Visual & Imaging,699.99
+1040,Projection Screen,Visual & Imaging,129.99
+1041,Office Chair,Office Furniture,249.99
+1042,Desk Lamp,Office Furniture,45.99
+1043,Computer Desk,Computing,329.99
+1044,Cable Management Kit,Connectivity & Power,24.99
+1045,Docking Station,Connectivity & Power,159.99
+1046,Wireless Mouse,Accessories,49.99
+1047,Graphics Tablet,Computing,279.99
+1048,Stylus Pen,Accessories,89.99
+1049,Mechanical Keyboard,Accessories,149.99
+1050,Wrist Rest,Accessories,24.99

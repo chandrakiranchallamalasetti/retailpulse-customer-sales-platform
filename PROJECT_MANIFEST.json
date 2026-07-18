@@ -1,0 +1,182 @@
+[
+  {
+    "path": ".github/workflows/ci.yml",
+    "bytes": 412
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 124
+  },
+  {
+    "path": ".streamlit/config.toml",
+    "bytes": 181
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 406
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1081
+  },
+  {
+    "path": "PROJECT_MANIFEST.json",
+    "bytes": 2951
+  },
+  {
+    "path": "README.md",
+    "bytes": 3511
+  },
+  {
+    "path": "app.py",
+    "bytes": 17402
+  },
+  {
+    "path": "data/customer_sales.db",
+    "bytes": 172032
+  },
+  {
+    "path": "data/seed/customers.csv",
+    "bytes": 709
+  },
+  {
+    "path": "data/seed/order_items.csv",
+    "bytes": 32517
+  },
+  {
+    "path": "data/seed/orders.csv",
+    "bytes": 27294
+  },
+  {
+    "path": "data/seed/products.csv",
+    "bytes": 2117
+  },
+  {
+    "path": "data/seed/salespersons.csv",
+    "bytes": 481
+  },
+  {
+    "path": "docs/architecture.svg",
+    "bytes": 1848
+  },
+  {
+    "path": "docs/index.html",
+    "bytes": 4475
+  },
+  {
+    "path": "docs/styles.css",
+    "bytes": 2629
+  },
+  {
+    "path": "documentation/DATA_DICTIONARY.md",
+    "bytes": 1476
+  },
+  {
+    "path": "documentation/DEPLOYMENT_GUIDE.md",
+    "bytes": 2380
+  },
+  {
+    "path": "documentation/PORTFOLIO_TALK_TRACK.md",
+    "bytes": 1259
+  },
+  {
+    "path": "documentation/PROJECT_OVERVIEW.md",
+    "bytes": 1469
+  },
+  {
+    "path": "documentation/SOURCE_MAPPING.md",
+    "bytes": 1723
+  },
+  {
+    "path": "notebooks/01_database_quality_checks.ipynb",
+    "bytes": 2467
+  },
+  {
+    "path": "notebooks/02_sales_analysis.ipynb",
+    "bytes": 3102
+  },
+  {
+    "path": "pyproject.toml",
+    "bytes": 67
+  },
+  {
+    "path": "requirements-dev.txt",
+    "bytes": 49
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 46
+  },
+  {
+    "path": "scripts/build_database.py",
+    "bytes": 1492
+  },
+  {
+    "path": "scripts/export_data.py",
+    "bytes": 531
+  },
+  {
+    "path": "source_materials/Customer Orders Database \u2013 Final Project Overview.pptx",
+    "bytes": 1883593
+  },
+  {
+    "path": "source_materials/Customer Sales Database - IR.sql",
+    "bytes": 9290
+  },
+  {
+    "path": "source_materials/Customer Sales Database System - IR.docx",
+    "bytes": 101817
+  },
+  {
+    "path": "source_materials/Data Visualization - IR (2).ipynb",
+    "bytes": 7509
+  },
+  {
+    "path": "source_materials/Python Data Insertion - IR (2).ipynb",
+    "bytes": 10494
+  },
+  {
+    "path": "sql/analytics_views_sqlite.sql",
+    "bytes": 2416
+  },
+  {
+    "path": "sql/legacy_source.sql",
+    "bytes": 9290
+  },
+  {
+    "path": "sql/schema_sqlite.sql",
+    "bytes": 1730
+  },
+  {
+    "path": "sql/schema_sqlserver.sql",
+    "bytes": 2743
+  },
+  {
+    "path": "src/__init__.py",
+    "bytes": 39
+  },
+  {
+    "path": "src/analytics.py",
+    "bytes": 1393
+  },
+  {
+    "path": "src/components.py",
+    "bytes": 1516
+  },
+  {
+    "path": "src/database.py",
+    "bytes": 2418
+  },
+  {
+    "path": "src/queries.py",
+    "bytes": 2407
+  },
+  {
+    "path": "tests/test_database.py",
+    "bytes": 696
+  },
+  {
+    "path": "tests/test_queries.py",
+    "bytes": 536
+  }
+]
