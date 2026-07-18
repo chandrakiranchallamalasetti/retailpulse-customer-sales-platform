@@ -1,10 +1,9 @@
 # RetailPulse — Customer Sales Analytics Platform
 
-[![CI](https://github.com/YOUR_USERNAME/retailpulse-customer-sales-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/retailpulse-customer-sales-platform/actions/workflows/ci.yml)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-SUBDOMAIN.streamlit.app)
+## Live Project
 
-**Live demo:** `https://YOUR-SUBDOMAIN.streamlit.app`  
-**Project site:** `https://YOUR_USERNAME.github.io/retailpulse-customer-sales-platform/`
+- [Live Streamlit Demo](https://retailpulse-customer-sales-platform-spse5im2uyvbdjnzdx7gsd.streamlit.app/)
+- [Project Overview Website](https://chandrakiranchallamalasetti.github.io/retailpulse-customer-sales-platform/)
 
 RetailPulse is a GitHub- and cloud-ready modernization of a customer sales database project. It combines normalized SQL, deterministic demo data, reusable analytics, an interactive Streamlit application, automated testing, and a static project overview site.
 
